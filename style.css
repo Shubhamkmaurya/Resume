@@ -1,0 +1,90 @@
+.body {
+    background-color: gray;
+} 
+
+.tab {
+    width: 700px;
+    height: 800px;
+    align-items: center;
+    margin-left: 23%;
+}
+
+.td1 {
+    width: 200px;
+    background-color: #1c2833;
+    color: white;
+    padding: 20px;
+}
+
+.td2 {
+    width: 500px;
+    background-color: white;
+    padding: 20px;
+}
+
+* {box-sizing: border-box}
+
+.container {
+  width: 100%;
+  background-color: #ddd;
+}
+
+.c1 {
+    margin-bottom: 30px;
+}
+
+.skills {
+  text-align: right;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  color: white;
+  padding-bottom: 2px;
+}
+
+.html {width: 90%; height: 2px; background-color: #04AA6D;}
+.css {width: 80%; height: 2px; background-color: #2196F3;}
+.js {width: 65%; height: 2px; background-color: #f44336;}
+.php {width: 60%; height: 2px; background-color: #808080;}
+
+.phone {
+    height: 25px;
+    font-weight: 10px;
+    color: white;
+    margin-top: 2px;
+}
+
+#mail {
+    height: 20px;
+    font-weight: 100;
+    margin-top: 2px;
+}
+
+.profile-logo {
+    height: 250px;
+    font-weight: 100;
+    border-radius: 5px;
+}
+
+#music {
+    height: 100px;
+    font-weight: 100;
+}
+
+#reading {
+    height: 100px;
+    font-weight: 100;
+    margin-left: 15px;
+}
+
+#game {
+    height: 75px;
+    font-weight: 100;
+    margin-left: 15px;
+}
+
+#Coding {
+    height: 100px;
+    font-weight: 100;
+    margin-left: 15px;
+}
+
